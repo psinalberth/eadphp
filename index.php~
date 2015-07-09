@@ -1,0 +1,4 @@
+<?php require_once 'includes/common.inc.php'; ?>
+<?php get_header('Hello World!'); ?>
+<?php include_once('conteudos/adicionar.php') ?>
+<?php include_once 'partials/footer.inc.php'; ?>
